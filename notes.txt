@@ -1,0 +1,9 @@
+
+
+1. difference between single and first. singleordefault?
+
+2. string == null and string.NullOrEmpty.
+
+3. Why Userservice is registerd as AddScoped ?
+
+4. 
